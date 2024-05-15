@@ -2452,11 +2452,11 @@ Mariños	I-ORG
 ,	O
 o	O
 Instituto	B-ORG
-de	I-LOC
-(	I-LOC
-IIM	B-ORG
--	O
-CSIC	B-ORG
+de	I-ORG
+(	I-ORG
+IIM	I-ORG
+-	I-ORG
+CSIC	I-ORG
 )	O
 e	O
 a	O
@@ -4481,12 +4481,12 @@ Prospección	O
 marítima	O
 Cíes	B-LOC
 -	O
-Oia	I-LOC
+Oia	B-LOC
 Prospección	O
 marítima	O
 Sálvora	B-LOC
 -	O
-Muros	I-LOC
+Muros	B-LOC
 
 CAMPAÑA	O
 DE	O
@@ -9886,7 +9886,7 @@ carta	O
 Consellería	B-ORG
 do	I-ORG
 medio	I-ORG
-Ambiente	I-PER
+Ambiente	I-ORG
 na	O
 que	O
 se	O
@@ -18649,7 +18649,7 @@ Fomento	B-MISC
 Francisco	B-PER
 Álvarez	I-PER
 -	I-PER
-Cascos	I-ORG
+Cascos	I-PER
 ,	O
 e	O
 do	O
@@ -25179,7 +25179,7 @@ anos	O
 A	B-LOC
 Frouxeira	I-LOC
 -	O
-Valdoviño	I-LOC
+Valdoviño	B-LOC
 erixiuse	O
 como	O
 principal	O
@@ -36978,7 +36978,7 @@ Tánago	I-PER
 e	O
 García	B-PER
 de	I-PER
-Jalón	I-ORG
+Jalón	I-PER
 ,	O
 1995	O
 )	O
@@ -37031,7 +37031,7 @@ Tánago	I-PER
 e	O
 García	B-PER
 de	I-PER
-Jalón	I-ORG
+Jalón	I-PER
 ,	O
 1995	O
 )	O
@@ -66773,7 +66773,7 @@ de	I-MISC
 Absorción	I-MISC
 Específica	I-MISC
 (	O
-SAR	I-MISC
+SAR	B-MISC
 )	O
 .	O
 
@@ -77511,7 +77511,7 @@ Xefe	B-ORG
 do	I-ORG
 Servizo	I-ORG
 de	O
-EA	I-ORG
+EA	B-ORG
 ,	O
 Xulio	B-PER
 Gutiérrez	I-PER
@@ -78301,7 +78301,7 @@ a	O
 creación	O
 dun	O
 "	O
-Foro	I-ORG
+Foro	B-ORG
 de	I-ORG
 medio	I-ORG
 ambiente	I-ORG
@@ -81400,7 +81400,7 @@ on	I-ORG
 Climate	I-ORG
 Change	I-ORG
 (	O
-IPCC	I-ORG
+IPCC	B-ORG
 )	O
 ,	O
 formado	O
@@ -87232,7 +87232,7 @@ Públicas	I-ORG
 Medio	B-ORG
 Ambiente	I-ORG
 ,	O
-Agricultura	I-ORG
+Agricultura	B-ORG
 )	O
 a	O
 adopción	O
@@ -87919,7 +87919,7 @@ Umia	I-LOC
 ,	O
 Navia	B-LOC
 ou	O
-Sela	I-LOC
+Sela	B-LOC
 (	O
 tramo	O
 internacional	O
@@ -88069,7 +88069,7 @@ Medio	I-ORG
 Ambiente	I-ORG
 fronte_á	O
 de	O
-Política	I-ORG
+Política	B-ORG
 Territorial	I-ORG
 e	I-ORG
 Obras	I-ORG
@@ -92688,7 +92688,7 @@ Bueu	B-LOC
 ,	O
 Cangas	B-LOC
 e	O
-Moaña	I-LOC
+Moaña	B-LOC
 ,	O
 os	O
 mesmos	O
@@ -99985,7 +99985,7 @@ auga	O
 en	O
 Galicia	B-LOC
 -	I-LOC
-Costa	I-ORG
+Costa	I-LOC
 poida	O
 evolucionar	O
 nunha	O
@@ -107054,7 +107054,7 @@ estivo	O
 alí	O
 ,	O
 polos	O
-Ministros	B-ORG
+Ministros	B-PER
 de	I-PER
 Economía	I-PER
 dos	O
@@ -108429,10 +108429,10 @@ A	O
 Asociación	B-ORG
 para	I-ORG
 a	I-ORG
-Defensa	I-MISC
-Ecolóxica	I-MISC
-de	I-MISC
-Galiza	I-MISC
+Defensa	I-ORG
+Ecolóxica	I-ORG
+de	I-ORG
+Galiza	I-ORG
 (	O
 ADEGA	B-ORG
 )	O
@@ -110532,7 +110532,7 @@ Especiais	I-MISC
 de	I-MISC
 Conservación	I-MISC
 (	O
-ZECs	I-MISC
+ZECs	B-MISC
 )	O
 -	O
 que	O
@@ -114649,7 +114649,7 @@ tempos	O
 a	O
 Serra	B-LOC
 da	I-LOC
-Lastra	I-MISC
+Lastra	I-LOC
 estivo	O
 ameazada	O
 por	O
@@ -122532,10 +122532,10 @@ pesca	O
 A	O
 Coalición	B-ORG
 "	I-ORG
-Amigos	I-MISC
-de	I-MISC
-Guinea	I-MISC
-Bissau	I-MISC
+Amigos	I-ORG
+de	I-ORG
+Guinea	I-ORG
+Bissau	I-ORG
 "	I-ORG
 acha	O
 que	O
@@ -123963,7 +123963,7 @@ política	O
 enerxética	O
 
 As	O
-ONGs	I-ORG
+ONGs	B-ORG
 ambientalistas	O
 demandan	O
 unha	O
@@ -144963,7 +144963,7 @@ contra	I-ORG
 Incendios	I-ORG
 Forestais	I-ORG
 (	O
-SPDCIF	I-ORG
+SPDCIF	B-ORG
 )	O
 manifestarase	O
 este	O
@@ -147189,7 +147189,7 @@ mozos	O
 .	O
 
 A	O
-Real	I-ORG
+Real	B-ORG
 Academia	I-ORG
 Galega	I-ORG
 decidiu	O
@@ -158695,7 +158695,7 @@ antigo	O
 alcalde	O
 de	O
 Manzaneda	B-LOC
-Davide	I-PER
+Davide	B-PER
 Rodríguez	I-PER
 ,	O
 as	O
@@ -162677,15 +162677,15 @@ levaba	O
 por	O
 título	O
 '	O
-Negociar	B-MISC
-,	I-MISC
-vender	I-MISC
-e	I-MISC
-cobrar	I-MISC
-...	I-MISC
-tamén	I-MISC
-en	I-MISC
-México	I-LOC
+Negociar	O
+,	O
+vender	O
+e	O
+cobrar	O
+...	O
+tamén	O
+en	O
+México	B-LOC
 '	O
 .	O
 
@@ -163475,8 +163475,8 @@ xeográfico	O
 Bótame	B-MISC
 deste	I-MISC
 mar	I-MISC
-fóra	O
-'	I-MISC
+fóra	I-MISC
+'	O
 ,	O
 de	O
 Ricardo	B-PER

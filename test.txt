@@ -7231,7 +7231,7 @@ Medio	I-ORG
 Ambiente	I-ORG
 e	I-ORG
 de	I-ORG
-Industria	I-MISC
+Industria	I-ORG
 foron	O
 advertidas	O
 verbalmente	O
@@ -28894,7 +28894,7 @@ Defensa	I-ORG
 das	I-ORG
 Rías	I-ORG
 de	O
-Ares	I-LOC
+Ares	B-LOC
 -	O
 Betanzos	B-LOC
 ,	O
@@ -38575,7 +38575,7 @@ o	O
 Camiño	B-ORG
 Neocatecumenal	I-ORG
 de	O
-Kiko	I-PER
+Kiko	B-PER
 Argüelles	I-PER
 para	O
 poñer	O
@@ -41523,7 +41523,7 @@ deputado	O
 de	O
 Cultura	B-MISC
 e	I-MISC
-Lingua	I-LOC
+Lingua	I-MISC
 ,	O
 Xosé	B-PER
 Leal	I-PER
